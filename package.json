@@ -1,6 +1,6 @@
 {
   "name": "leaflet-linestring-editor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "private": false,
   "dependencies": {
     "@geoman-io/leaflet-geoman-free": "^2.3.0",
@@ -46,5 +46,9 @@
     "@babel/cli": "^7.7.7",
     "@babel/preset-react": "^7.7.4",
     "babel-watch": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prasad5795/leaflet-linestring-editor.git"
   }
 }
