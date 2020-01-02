@@ -11,7 +11,6 @@ Here is an react library to overcome some disadvantages of current available edi
 #### Install Leaflet-Linestring-editor by following command
 ```
 npm install leaflet-linestring-editor --save
-
 ```
 #### Install Manually
 
@@ -26,7 +25,6 @@ CSS
 
 <!-- prettier-ignore -->
 ```html
-
 <link rel="stylesheet" href="https://unpkg.com/@geoman-io/leaflet-geoman-free@latest/dist/leaflet-geoman.css" />
 ```
 
@@ -205,13 +203,13 @@ export default App;
 
 ## Authors
 
-* **Prasad Kulkarni** - (https://github.com/prasad5795)
+* **Prasad Kulkarni** - (https://github.com/prasad5795) (kulkarniprasad57@gmail.com)
 
 ### Feature Request
 
 I'm adopting the Issue Management of lodash which means, feature requests get the "Feature Request" Label and then get closed.
 You can upvote existing feature requests (or create new ones). Upvotes make me see how much a feature is requested and prioritize their implementation.
-Please see the existing [Feature Requests here]() and upvote if you want them to be implemented.
+Please see the existing [Feature Requests here](https://github.com/prasad5795/leaflet-linestring-editor/issues) and upvote if you want them to be implemented.
 
 ## License
 
