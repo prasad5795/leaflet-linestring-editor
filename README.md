@@ -69,7 +69,6 @@ import React from 'react';
 import ReactDOM from 'react-dom'
 import logo from './logo.svg';
 import './App.css';
-// import EditableGeometry from './dist/EditableGeometry'
 import EditableGeometry from 'leaflet-editor-try/dist/EditableGeometry'
 import L from 'leaflet'
 
