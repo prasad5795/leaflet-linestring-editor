@@ -29,10 +29,6 @@ class App extends React.Component {
             [-3.267764, 48.684605],
             [-3.265329, 48.683851]
           ]
-        },
-        "properties": {
-          "graph_id": 12,
-          "type": "proposed_mds"
         }
       }, {
         "type": "Feature",
@@ -45,10 +41,6 @@ class App extends React.Component {
             [-3.265092, 48.684377],
             [-3.264302, 48.685239]
           ]
-        },
-        "properties": {
-          "graph_id": 12,
-          "type": "proposed_mds"
         }
       }, {
         "type": "Feature",
@@ -59,10 +51,6 @@ class App extends React.Component {
             [-3.265329, 48.683851],
             [-3.264471, 48.683738]
           ]
-        },
-        "properties": {
-          "graph_id": 12,
-          "type": "proposed_mds"
         }
       }, {
         "type": "Feature",
@@ -76,10 +64,6 @@ class App extends React.Component {
             [-3.262987, 48.68482],
             [-3.262161, 48.685286]
           ]
-        },
-        "properties": {
-          "graph_id": 12,
-          "type": "proposed_mds"
         }
       }, {
         "type": "Feature",
@@ -91,10 +75,6 @@ class App extends React.Component {
             [-3.261748, 48.684993],
             [-3.261225, 48.68435]
           ]
-        },
-        "properties": {
-          "graph_id": 12,
-          "type": "proposed_mds"
         }
       }]
     }
